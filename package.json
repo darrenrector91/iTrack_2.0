@@ -4,7 +4,8 @@
   "description": "iTrack 2.0 is a new version with improvements in tracking caught fish using maps and allowing for photos of the catch",
   "main": "server/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
